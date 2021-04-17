@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "f6117769ecbe516a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c010d95b686e67a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Django/Creating an App.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5962b8b6e14c83fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74bff146649739a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23239add7d9dcf20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6331357241ddbc94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "eff6062994dd32fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda1945386053d1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1322b7129d5f35c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Django/Creating an App.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c010d95b686e67a2",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "First Starting.md",
+    "Django/Misc..md",
+    "Basics of MVC.md"
+  ]
+}
