@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Django/Creating an App.md",
-            "mode": "source"
+            "file": "Django/Creation of Project.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Creating an App.md",
+                "file": "Django/Creation of Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,14 @@
   },
   "active": "c010d95b686e67a2",
   "lastOpenFiles": [
+    "Django/Creation of Project.md",
+    "Django/Installing Django.md",
+    "Django/First Starting.md",
+    "Django/Misc..md",
+    "Django/Creating an App.md",
     "Untitled.md",
     "README.md",
     "First Starting.md",
-    "Django/Misc..md",
     "Basics of MVC.md"
   ]
 }
